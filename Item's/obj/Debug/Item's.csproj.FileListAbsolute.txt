@@ -1,0 +1,7 @@
+C:\Users\liptak.daniel\source\repos\Item's\Item's\bin\Debug\Item's.exe.config
+C:\Users\liptak.daniel\source\repos\Item's\Item's\bin\Debug\Item's.exe
+C:\Users\liptak.daniel\source\repos\Item's\Item's\bin\Debug\Item's.pdb
+C:\Users\liptak.daniel\source\repos\Item's\Item's\obj\Debug\Item's.csproj.AssemblyReference.cache
+C:\Users\liptak.daniel\source\repos\Item's\Item's\obj\Debug\Item's.csproj.CoreCompileInputs.cache
+C:\Users\liptak.daniel\source\repos\Item's\Item's\obj\Debug\Item's.exe
+C:\Users\liptak.daniel\source\repos\Item's\Item's\obj\Debug\Item's.pdb
