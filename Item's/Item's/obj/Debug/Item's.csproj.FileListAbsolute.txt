@@ -1,0 +1,8 @@
+E:\Item's\Item's\bin\Debug\Item's.exe.config
+E:\Item's\Item's\bin\Debug\Item's.exe
+E:\Item's\Item's\bin\Debug\Item's.pdb
+E:\Item's\Item's\obj\Debug\Item's.csproj.AssemblyReference.cache
+E:\Item's\Item's\obj\Debug\Item's.csproj.SuggestedBindingRedirects.cache
+E:\Item's\Item's\obj\Debug\Item's.csproj.CoreCompileInputs.cache
+E:\Item's\Item's\obj\Debug\Item's.exe
+E:\Item's\Item's\obj\Debug\Item's.pdb
